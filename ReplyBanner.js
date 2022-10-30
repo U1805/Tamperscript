@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         眼不见为净
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/u1805/Tamperscript
 // @version      0.1
 // @description  Bilibili 评论屏蔽
 // @author       带dai
